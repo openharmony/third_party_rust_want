@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "want",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.3.0",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/seanmonstar/want",
+    "Description": "Detect when another Future wants a result."
+  }
+]
